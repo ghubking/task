@@ -1,0 +1,108 @@
+main {}
+main h1 {
+    margin: 0 auto;
+    font-size: 5.0rem;
+    text-align: center;
+    margin: 50px 0 30px 0;
+}
+main h2 {
+    margin: 0 auto;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+main h3 {
+    margin: 0 auto;
+    font-size: 2.0rem;
+    text-align: center;
+    margin-bottom: 20px;
+}
+main .dan2 {}
+main .dan2 .dan2_contents {}
+main .dan2 .dan2_contents form {
+    width:700px;
+    margin: 0 auto;
+}
+main .dan2 .dan2_contents table {
+    margin: 0 auto;
+    border: 1px solid black;
+}
+main .dan2 .dan2_contents table tr {
+    border: 1px solid black;
+}
+main .dan2 .dan2_contents table tr th {
+    background-color: skyblue;    
+    font-size: 2.0rem;
+    text-align: center;
+    border: 1px solid black;
+    width: 150px; height:50px;
+    }
+main .dan2 .dan2_contents table tr td {
+    text-align: center;
+    border: 1px solid black;
+    font-size: 1.5rem; height:30px;
+}
+main .dan2 .dan2_contents table tr #point_2_1,
+main .dan2 .dan2_contents table tr #point_2_2,
+main .dan2 .dan2_contents table tr #point_2_3,
+main .dan2 .dan2_contents table tr #point_2_4,
+main .dan2 .dan2_contents table tr #point_2_5,
+main .dan2 .dan2_contents table tr #point_2_6,
+main .dan2 .dan2_contents table tr #point_2_7,
+main .dan2 .dan2_contents table tr #point_2_8,
+main .dan2 .dan2_contents table tr #point_2_9 {
+    color:red;
+}
+main .dan2 .dan2_contents table tr #input_2_1 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_1 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_1 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_2 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_2 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_2 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_3 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_3 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_3 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_4 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_4 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_4 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_5 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_5 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_5 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_6 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_6 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_6 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_7 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_7 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_7 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_8 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_8 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_8 {text-align: center;}
+main .dan2 .dan2_contents table tr #input_2_9 {text-align: center;}
+main .dan2 .dan2_contents table tr #answer_2_9 {text-align: center;}
+main .dan2 .dan2_contents table tr #point_2_9 {text-align: center;}
+main .dan2 .dan2_contents table tr .total {
+    text-align: center;
+    height: 40px;
+}
+main .dan2 .dan2_contents table tr #total_point {
+    text-align: center;
+    height: 40px;
+}
+main .result {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 30px;
+}
+main .result #reset_btn {
+    width: 100px; height: 50px;
+    background-color: palevioletred;
+    color: #fff;
+}
+main .result #result_btn {
+    width: 100px; height: 50px;
+    background-color: yellow;
+    margin-left: 20px;
+    color:#000
+}
